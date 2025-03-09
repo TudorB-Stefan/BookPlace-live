@@ -17,13 +17,6 @@ Proiectul prezinta o platforma ce are ca scop inmanarea accesului liber la infor
 + O lista de categori ce vor ajuta la filtrarea continutului dorit.
 + O interfata economica din punct de vedere al resurselor utilizate.
 
-## Surse informatii:
-+ ### carturesti.ro
-+ ### unsplash.com
-+ ### pexels.com
-+ ### pixabay.com
-
-
 ## Limbaje folosite:
 + ### HTML
    - Folosit pentru crearea interfatei
